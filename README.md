@@ -1,7 +1,7 @@
 # Privacy Policy for PulseDeck
 
-**Effective Date:** [Insert Date]  
-**Last Updated:** [Insert Date]
+**Effective Date:** 13th June 2025  
+**Last Updated:** 13th June 2025
 
 ## 1. Introduction
 
