@@ -148,11 +148,10 @@ We may update this Privacy Policy periodically. We will notify you of material c
 
 If you have questions about this Privacy Policy or our data practices, please contact us:
 
-**Email:** [Insert Contact Email]  
-**Address:** [Insert Business Address]  
-**Website:** [Insert Website URL]
+**Email:** fastdxai@gmail.com  
+**Website:** pulsedeck.live
 
-For data protection inquiries specifically, you may also contact our Data Protection Officer at: [Insert DPO Email]
+For data protection inquiries specifically, you may also contact our Data Protection Officer at: fastdxai@gmail.com
 
 ## 14. Compliance
 
@@ -164,4 +163,4 @@ This Privacy Policy is designed to comply with:
 
 ---
 
-*This Privacy Policy was last updated on [Insert Date]. Please review it periodically for any changes.* 
+*This Privacy Policy was last updated on 13th June 2025. Please review it periodically for any changes.* 
