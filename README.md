@@ -148,10 +148,10 @@ We may update this Privacy Policy periodically. We will notify you of material c
 
 If you have questions about this Privacy Policy or our data practices, please contact us:
 
-**Email:** fastdxai@gmail.com  
-**Website:** pulsedeck.live
+**Email:** fastdx.ai@gmail.com  
+**Website:** pulsedeck.live (coming soon)
 
-For data protection inquiries specifically, you may also contact our Data Protection Officer at: fastdxai@gmail.com
+For data protection inquiries specifically, you may also contact our Data Protection Officer at: fastdx.ai@gmail.com
 
 ## 14. Compliance
 
