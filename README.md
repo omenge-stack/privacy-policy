@@ -163,4 +163,4 @@ This Privacy Policy is designed to comply with:
 
 ---
 
-*This Privacy Policy was last updated on 13th June 2025. Please review it periodically for any changes.* 
+*This Privacy Policy was last updated on 20th June 2025. Please review it periodically for any changes.* 
