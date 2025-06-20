@@ -1,7 +1,7 @@
 # Privacy Policy for PulseDeck
 
 **Effective Date:** 13th June 2025  
-**Last Updated:** 13th June 2025
+**Last Updated:** 20th June 2025
 
 ## 1. Introduction
 
@@ -148,10 +148,10 @@ We may update this Privacy Policy periodically. We will notify you of material c
 
 If you have questions about this Privacy Policy or our data practices, please contact us:
 
-**Email:** fastdx.ai@gmail.com  
-**Website:** pulsedeck.live (coming soon)
+**Email:** calebmose@gmail.com  
+**Website:** pulsedeck.live
 
-For data protection inquiries specifically, you may also contact our Data Protection Officer at: fastdx.ai@gmail.com
+For data protection inquiries specifically, you may also contact our Data Protection Officer at: calebmose@gmail.com
 
 ## 14. Compliance
 
